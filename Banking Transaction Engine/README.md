@@ -123,14 +123,6 @@ This project is intended for learning and demonstration purposes.
 - Transfers are not guaranteed to be atomic under concurrent operations.
 - The application is not intended for real financial transactions.
 
-## Future Improvements
-
-- Persistent storage using a database
-- Atomic transaction processing
-- Concurrency protection
-- Automated unit tests
-- Authentication and account ownership verification
-
 ## Purpose
 
 This project was developed to strengthen practical C# programming skills, including object-oriented design, encapsulation, collections, LINQ, validation, and financial transaction logic.
